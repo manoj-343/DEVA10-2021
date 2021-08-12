@@ -8,3 +8,4 @@ Added a Line 1 on Local Branch B1
 
 7th Line added to the local master
 
+8th Line added to the Local Master
